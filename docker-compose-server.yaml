@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  app:
+    image: enzo1987/flask-app:ver-2
+    ports:
+      - 80:80
